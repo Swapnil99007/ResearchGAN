@@ -1,1 +1,4 @@
 openai
+moviepy
+pydub
+pillow==9.5.0
